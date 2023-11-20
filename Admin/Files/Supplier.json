@@ -1,0 +1,52 @@
+[
+    {
+        "firstname": "Alamin",
+        "lastname": "Ahmed",
+        "sid": "54442",
+        "email": "atry@gmail.com",
+        "pass": "12345",
+        "age": "50",
+        "gender": "Male",
+        "contNo": "01234567891"
+    },
+    {
+        "firstname": "prodp",
+        "lastname": "dfddf",
+        "sid": "54555",
+        "email": "42888.deb.oscar@gmail.com",
+        "pass": "12346",
+        "age": "45",
+        "gender": "Male",
+        "contNo": "01234567891"
+    },
+    {
+        "firstname": "Oscar",
+        "lastname": "Deb",
+        "sid": "34234",
+        "email": "oscar@gmail.com",
+        "pass": "$Efsgy55rcvt",
+        "age": "22",
+        "gender": "Male",
+        "contNo": "01913454234"
+    },
+    {
+        "firstname": "Zerin",
+        "lastname": "Tasnim",
+        "sid": "12365",
+        "email": "zerin@gmail.com",
+        "pass": "$T#hexyweyR",
+        "age": "21",
+        "gender": "Female",
+        "contNo": "01514534234"
+    },
+    {
+        "firstname": "john",
+        "lastname": "john",
+        "sid": "12345",
+        "email": "a@a.com",
+        "pass": "123456",
+        "age": "50",
+        "gender": "Male",
+        "contNo": "01234567891"
+    }
+]

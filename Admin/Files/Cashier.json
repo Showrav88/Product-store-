@@ -1,0 +1,42 @@
+[
+    {
+        "firstname": "Fariya",
+        "lastname": "Sultana",
+        "age": "21",
+        "gender": "Female",
+        "contNo": "01744474123",
+        "email": "prity.fariya.42889@gmail.com",
+        "cid": "12345",
+        "pass": "Tanaaaa34"
+    },
+    {
+        "firstname": "Rahmat",
+        "lastname": "Ullah",
+        "age": "45",
+        "gender": "Male",
+        "contNo": "01712342345",
+        "email": "hdfyusfu34@gmail.com",
+        "cid": "34234",
+        "pass": "Rahnur56"
+    },
+    {
+        "firstname": "Fahmida",
+        "lastname": "Akter",
+        "email": "prity.fariya.42889@gmail.com",
+        "age": "34",
+        "cid": "67452",
+        "pass": "Bevan",
+        "contNo": "03298348",
+        "gender": "male"
+    },
+    {
+        "firstname": "bEVAN",
+        "lastname": "Saha",
+        "email": "bevansaha@gmail.com",
+        "age": "23",
+        "cid": "66666",
+        "pass": "12345",
+        "contNo": "0988765125",
+        "gender": "male"
+    }
+]
